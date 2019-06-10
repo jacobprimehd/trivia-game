@@ -1,0 +1,65 @@
+body{
+    background-image: url("../images/background.png");
+    background-size: cover;
+    margin: 0;
+}
+
+.container{
+    position: relative;
+    top: 2.5vh;
+    width: 75%;
+    height: 100%;
+    background-image: url("../images/background2.png");
+    margin: 0 auto;
+    font-family: 'Abel', sans-serif;
+    text-align: center;
+}
+
+.container #title{
+    
+    font-size: 200%;
+}
+
+.button-style{
+    height: 20%;
+    width: 40%;
+    position: relative;
+    top: 25vh;
+    text-decoration: none;
+    border: none;
+    font: 'Abel', sans-serif;
+    background: transparent;
+    font-size: 270%;
+    color: white;
+}
+
+.button-style:hover{
+    background-color: white;
+    color: black;
+
+}
+.timer{
+    justify-content: center;
+    text-align: center;
+    font-size: 110%;
+}
+.questions{
+    text-align: center;
+    font-size: 100%;
+}
+
+.doneButton{
+    width: 20%;
+    height: 10vh;
+    text-decoration: none;
+    border: none;
+    font: 'Abel', sans-serif;
+    background: transparent;
+    font-size: 200%;
+    color: black;
+}
+
+.doneButton:hover{
+    background-color: black;
+    color: white;
+}
