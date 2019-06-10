@@ -89,7 +89,7 @@ $(document).ready(function() {
     {
       question: "What is the capital of Washington?",
       answers: ["Olympia", "Tacoma", "Seattle"],
-      correct: "Joe Quimby"
+      correct: "Seattle"
     },
 
     {
